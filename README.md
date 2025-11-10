@@ -13,3 +13,6 @@ Este repositório contém toda a estrutura do **servidor**, o **banco de dados**
 - **GitHub Actions** — pipeline de CI/CD  
 - **npm** — gerenciador de pacotes
 
+## Docker compose check 
+
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/a0df209b-2623-4ddc-8fce-fd452aefffe4" />
